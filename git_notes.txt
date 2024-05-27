@@ -1,0 +1,5 @@
+git clone link
+cd
+u - unmodified
+git status - list the un updated files(untracked)
+add new file - git add file.exe
