@@ -8,7 +8,7 @@ public class DataTypes
   {
     byte a = 10;
     short b = 20;
-    int c = 30;
+    int c = 90;
     long d = 40;
     float e = 50;
     double f = 60;
